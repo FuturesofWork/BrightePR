@@ -528,6 +528,7 @@ img {
 .footer-btm {
   flex-wrap: wrap;
   width: 100%;
+  margin-top: 50px;
   display: flex;
 }
 
